@@ -1,0 +1,84 @@
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-buttom{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 0, 0),rgb(255, 175, 71));
+    padding: 10px 15px;
+    border-radius: 30px;
+    color: white;
+    font-weight: 700;
+}
+.top-banner{
+    background-image: url(images/shapes/Group\ 8450.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: right;
+    
+    
+}
+
+section{
+    display: flex;
+}
+.second-half-width{
+    width: 50%;
+    padding: 5%;
+}
+.second-half-width img{
+    width: 100%;
+}
+.link-buttom-two{
+     text-decoration: none;
+    background-image: linear-gradient(rgb(255, 0, 0),rgb(255, 175, 71));
+    padding: 10px 15px;
+    border-radius: 30px;
+    color: white;
+    font-weight: 700;
+}
+
+.second-banner{
+    background-image: url(images/shapes/Frame\ 56.jpg) ;
+   
+    background-repeat: no-repeat;
+    
+    
+}
+section{
+    display: flex;
+}
+div.polaroid {
+  width: 284px;
+  padding: 15px 25px 30px;
+  border: 1px solid #BFBFBF;
+  margin: 35px;
+  background-color: white;
+  box-shadow: 10px 10px 5px #aaaaaa;
+  border-radius: 15px;
+
+}
+.third-banner{
+    padding: 40px;
+}
+.polaroid rotate_right img{
+   border-radius: 15px;
+}
+
+#container{
+    text-align: center;
+    background-color: orange;
+    border-radius: 10px;
+}
